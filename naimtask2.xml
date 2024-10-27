@@ -1,0 +1,20 @@
+<students>
+    <student>
+        <name> John Carter </name>
+        <SL_No>23</SL_No>
+        <add_Date> 25/12/2015 </add_Date>
+    </student>
+	
+	<student>
+        <name> Bob Marshal </name>
+        <SL_No>29</SL_No>
+        <add_Date> 13/01/1999</add_Date>
+    </student>
+	
+	<student>
+        <name> Clerk Cent </name>
+        <SL_No>35</SL_No>
+        <add_Date> 17/06/2005 </add_Date>
+    </student>
+	
+</students>
